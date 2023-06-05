@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=WhrU9m82Wm8&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=2
+
+gem install jekyll bundler
+
+jekyll new yousefi0
+
+
+bundle exec jekyll serve
+
+jekyll serve
+
+
+bundle add webrick
